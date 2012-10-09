@@ -1,3 +1,4 @@
+// The below code is from web link: http://www.pocketdigi.com/20110528/317.html
 package com.example.phonevibrator;
 
 import android.os.Bundle;
